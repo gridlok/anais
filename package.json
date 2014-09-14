@@ -1,0 +1,27 @@
+{
+  "name": "anais",
+  "version": "0.1.0",
+  "description": "The Anais IRC bot",
+  "main": "anais.js",
+  "scripts": {
+    "start": "node anais.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gridlok/anais.git"
+  },
+  "keywords": [
+    "IRC",
+    "bot"
+  ],
+  "author": "Paul Castle",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gridlok/anais/issues"
+  },
+  "homepage": "https://github.com/gridlok/anais",
+  "dependencies": {
+    "irc": "^0.3.7"
+  },
+  "devDependencies": {}
+}
